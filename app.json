@@ -15185,8 +15185,8 @@
 
 {
   
-  "name": "BMW MD",
-  "description": "Best Whatsapp bot made by Ibrahim Adams",
+  "name": "HITMAN MD",
+  "description": "Best Whatsapp bot made by Hitman Logs",
   "logo":"https://telegra.ph/file/fd124f7e9271111c3bcc1.jpg",
   "keywords": [
     "whatsapp bot"
@@ -15201,13 +15201,13 @@
     },
     "MODE": {
       "description": "Enter true for public. no for private",
-      "required": true,
-      "value": "public"
+      "required": no,
+      "value": "private"
     },
     "AUTO_STATUS_SEEN": {
       "description": "Enter true for autoview status. no for no",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "AUTO_READ": {
       "description": "Enter true for autoread messages. no for no",
@@ -15227,7 +15227,7 @@
     "ALWAYS_ONLINE": {
       "description": "Enter it true if you want bot to show always online",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "AUTO_BLOCK": {
       "description": "Enter it true if you want bot to auto block only 212 numbers",
