@@ -60973,10 +60973,10 @@
 #!/usr/adams
 
 """
-Author             : Sir Ibrahim Adams
-contact            : ibraahadams@gmail.com
-Github             : https://github.com/devibraah
-my youtube channel : Youtube.com/@ibrahimaitech
+Author             : Hitman Logs
+contact            : akintanhaywire@gmail.com
+Github             : https://github.com/UltraFoxes
+my youtube channel : Youtube.com/@Hitmanlogs
 
 subcribe my youtube Channel to learn ethical Hacking ^_^
 """
